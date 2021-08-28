@@ -1,0 +1,51 @@
+body {
+   background-color: rgb(6 132 156);
+}
+
+
+
+fieldset {
+   margin-top:9%;
+   width: 50%;
+    text-align: center;
+    margin-left: 25%;
+   box-shadow: inset -9px -3px 20px 15px rgb(132 130 130), -9px 6px 20px 4px rgb(47 90 85);
+    background-color: rgb(191 206 255);
+    border-style: solid;
+    border-color: rgb(23 21 17 / 44%);
+    border-radius: 16px;
+    opacity: 100%;
+}
+
+fieldset h1 {
+   color: #06a7b7;;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#glower {
+    padding: 3%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    color: rgb(82 85 99);
+    width: 80%;
+    height: 20px;
+    outline: 0;
+}
+
+#glower:hover {
+    border-style: solid;
+    border-color: #c3e5f1;
+    border-width: 2px;
+    border-radius: 15px;
+    box-shadow: inset 1px 0px 10px 1px lightblue, 6px 4px 19px 0px #384448;
+}
+
+#login {
+   width: 40%;
+    border-radius: 19px;
+    padding: 12px;
+   color: white;
+   border-style: solid;
+   border-color: rgba(255, 0, 0, 1);
+   background-color: rgba(255, 0, 0, 1);
+}
